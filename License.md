@@ -1,3 +1,4 @@
+The MIT License (MIT)
 Copyright (c) <2016> <Ross Briden>
 
 Permission is hereby granted, free of charge, 
