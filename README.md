@@ -6,7 +6,7 @@ Includes both a minimized and full version of the jquery plugin.
 As simple as:
 <b>$(yourCalendarId).convertToIcs();</b>
 
-#Dependencies
+## Dependencies
 FullIcs.js requires the following libraries:
 <dl>
 <dt><b>FullCalendar.js</b></dt>
