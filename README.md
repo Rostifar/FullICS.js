@@ -2,7 +2,7 @@
 A basic jQuery plugin which converts a client side Full Calendar to an ICS file.
 Includes both a minimized and full version of the jquery plugin.
 
-#How To Use
+## How To Use
 As simple as:
 <b>$(yourCalendarId).convertToIcs();</b>
 
