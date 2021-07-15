@@ -10,9 +10,9 @@ As simple as:
 FullIcs.js requires the following libraries:
 <dl>
 <dt><b>FullCalendar.js</b></dt>
-<dd>-A web based calendar which is used to retrieve event data.</dd>
-<dd>-http://fullcalendar.io/</dd>
+<dd>- A web based calendar which is used to retrieve event data.</dd>
+<dd>- http://fullcalendar.io/</dd>
 <dt><b>FileSaver.js</b></dt>
-<dd>-Allows the plugin to save the .ics file to a clients computer.</dd>
-<dd>-https://github.com/eligrey/FileSaver.js/</dd>
+<dd>- Allows the plugin to save the .ics file to a clients computer.</dd>
+<dd>- https://github.com/eligrey/FileSaver.js/</dd>
 </dl>
